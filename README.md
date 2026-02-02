@@ -41,20 +41,6 @@ Sistem-Struk-Belanja-Mini-Market
 
 ---
 
-## ⚙️ Cara Menjalankan Program
-
-1. Compile semua file:
-```
-javac *.java
-```
-
-2. Jalankan program:
-```
-java Main
-```
-
----
-
 ## 💡 Fitur Program
 
 - Input data produk
@@ -71,9 +57,12 @@ Proyek ini dibuat sebagai Project / Ujian Akhir Semester mata kuliah **Pemrogram
 
 ---
 
-## 👤 Pengembang
+## 👤 Author
 
-Saoki Ramada  
+Nama : Muhammad Saoki Ramada  
+Prodi : Teknologi Informasi
+Mata Kuliah : Pemrograman Berorientasi Objek
+Tahun : 2025
 GitHub: https://github.com/qexaaa
 
 ---
