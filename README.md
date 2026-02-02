@@ -75,3 +75,20 @@ Proyek ini dibuat sebagai Project / Ujian Akhir Semester mata kuliah **Pemrogram
 
 Saoki Ramada  
 GitHub: https://github.com/qexaaa
+
+---
+
+## 📌 Potensi Pengembangan Sistem
+
+Proyek ini menunjukkan penerapan konsep dasar Pemrograman Berorientasi Objek (PBO) secara terstruktur dan sistematis. 
+
+Beberapa aspek yang dapat dikembangkan lebih lanjut antara lain:
+
+- Integrasi dengan database untuk penyimpanan data transaksi
+- Pengembangan antarmuka berbasis GUI (Graphical User Interface)
+- Penambahan fitur manajemen stok barang
+- Pembuatan laporan transaksi harian atau bulanan
+- Pengembangan menjadi sistem Point of Sale (POS) yang lebih kompleks
+
+Dengan pengembangan lebih lanjut, sistem ini berpotensi menjadi aplikasi kasir sederhana yang dapat digunakan dalam skala usaha kecil hingga menengah.
+
